@@ -4,8 +4,8 @@ About Dataset
 
 This dataset contains 10 different features of each restaurant listed on the website of Swiggy -
 
-**1.  Id** - Every restaurant has a Unique ID assigned to it
-**2.  Name** - Name of the Restaurant
+  **Id** - Every restaurant has a Unique ID assigned to it
+  **Name** - Name of the Restaurant
 **3.  City** - The city where the restaurant is located
 **4.  Rating** - Rating of the Restaurant
 **5.  Rating_count** - Number of People who have given the Rating
