@@ -17,4 +17,5 @@ This dataset contains 10 different features of each restaurant listed on the web
 
 ## DASHBOARD 
 
-<img width="1207" alt="Untitled" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/0ab84a3a-4627-4a0f-872d-46ea5868f570">
+<img width="1080" alt="Swiggy 1" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/70de45ca-5f2b-4561-a6fc-a243ed66852f">
+<img width="1142" alt="Swiggy 2" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/7b5d1c1e-61ae-4851-b694-52351284a848">
