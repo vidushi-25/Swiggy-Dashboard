@@ -25,10 +25,18 @@ This dataset contains 10 different features of each restaurant listed on the web
 
 
 
-<img width="1078" alt="Swiggy City Unfiltered" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/16c0b872-2aad-4392-a2b3-a123a62ae949">
-
 
 
 <img width="1078" alt="Swiggy City Filtered" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/2b787465-ce47-44c4-bb86-a363969b66ac">
 
+
+<img width="1078" alt="Swiggy City Filtered Delhi" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/80a7c30f-326a-45e7-aaa8-89b192ff7511">
+
+
+
+<img width="1078" alt="Swiggy City Filtered Mussoorie" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/8b44e075-9d26-4418-bdb8-3e274c9106d6">
+
+
+
+<img width="1078" alt="Swiggy City Filtered Ggn Rating" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/e028fd0a-6637-4860-83fd-71a455b3ed85">
 
