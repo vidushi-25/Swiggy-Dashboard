@@ -21,6 +21,26 @@ This dataset contains 10 different features of each restaurant listed on the web
 
 ## DASHBOARD 
 
+Questions Answered :
+
+ 1.	How many restaurants are listed on Swiggy
+ 2.	How many cities have restaurants that are listed on Swiggy
+ 3.	Overall Average Cost of restaurants listed on Swiggy
+ 4.	Number of Cuisines listed
+ 5.	No. of Restaurants with Rating > 4.5
+ 6.	Cities with maximum number of restaurants
+ 7.	Most Visited Restaurant Chains
+ 8.	Top 10 popular cuisines
+ 9.	Most Expensive Restaurant Name & Its Cost
+ 10.	Least Expensive Cities
+ 11.	5 Most popular restaurants
+ 12.	Comparison of Cost with Restaurant Visits and Rating
+ 13.	Restaurants with Maximum number of Restaurant Chains
+
+
+![image](https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/87e5c548-2808-480c-a19a-5303e317116e)
+
+
 <img width="1084" alt="Swiggy Overview" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/66efb599-acb1-463b-969e-cc8564ccaeeb">
 
 
