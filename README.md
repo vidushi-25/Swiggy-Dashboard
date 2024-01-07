@@ -1,5 +1,7 @@
 # Swiggy-Dashboard
 
+Access the Swiggy Dashboard Excel File here : https://docs.google.com/spreadsheets/d/1wQI0Nsv_x8Im6qM1U9nktiWUSLevhed1/edit?usp=sharing&ouid=100976930069598329314&rtpof=true&sd=true
+
 About Dataset
 
 This dataset contains 10 different features of each restaurant listed on the website of Swiggy -
