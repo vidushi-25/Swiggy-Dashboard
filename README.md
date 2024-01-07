@@ -82,14 +82,8 @@ _City Filter Applied : Mussoorie_
 
 
  _City Filter Applied : Gurgaon
- Rating Filter Applied : 4.5 - 5_
+  Rating Filter Applied : 4.5 - 5_
 
-
-
- 
- _City Filter Applied : Gurgaon_
-  _Rating Filter Applied : 4.5 - 5_
- 
 
 
 <img width="1078" alt="Swiggy City Filtered Ggn Rating" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/e028fd0a-6637-4860-83fd-71a455b3ed85">
