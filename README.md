@@ -19,7 +19,7 @@ This dataset contains 10 different features of each restaurant listed on the web
  10. Address - Full address of the restaurant
 
 
-## DASHBOARD 
+## OVERVIEW DASHBOARD 
 
 Questions Answered :
 
@@ -38,24 +38,49 @@ Questions Answered :
  13.	Restaurants with Maximum number of Restaurant Chains
 
 
-![image](https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/87e5c548-2808-480c-a19a-5303e317116e)
-
 
 <img width="1084" alt="Swiggy Overview" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/66efb599-acb1-463b-969e-cc8564ccaeeb">
 
 
 
+## CITY DASHBOARD 
+
+
+Questions Answered :
+
+
+ 1.	Top 5 Most Expensive Restaurants
+ 2.	Most Visited Restaurants
+ 3.	No. of restaurants listed on Swiggy for the city
+ 4.	Average cost of dining
+ 5.	Average Rating of restaurants in the city
+ 6.	Avg Cost vs Avg Rating
+ 7.	Most Visited Restaurant
+ 8.	Most Popular Restaurant and its link
+ 9.	Top 5 most popular restaurants
+
+
+
+_City Filter Applied : Bangalore_
 
 
 <img width="1078" alt="Swiggy City Filtered" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/2b787465-ce47-44c4-bb86-a363969b66ac">
 
 
+_City Filter Applied : Delhi_
+
+
 <img width="1078" alt="Swiggy City Filtered Delhi" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/80a7c30f-326a-45e7-aaa8-89b192ff7511">
 
+
+_City Filter Applied : Mussoorie_
 
 
 <img width="1078" alt="Swiggy City Filtered Mussoorie" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/8b44e075-9d26-4418-bdb8-3e274c9106d6">
 
+
+_City Filter Applied : Gurgaon_
+_Rating Filter Applied : 4.5 - 5_
 
 
 <img width="1078" alt="Swiggy City Filtered Ggn Rating" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/e028fd0a-6637-4860-83fd-71a455b3ed85">
