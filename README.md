@@ -88,5 +88,5 @@ _City Filter Applied : Mussoorie_
 
 
 
-<img width="1078" alt="Swiggy City Filtered Ggn Rating" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/e028fd0a-6637-4860-83fd-71a455b3ed85">
+<img width="1078" alt="new" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/96566ecd-8eb8-4ef6-beae-d3b0736027a4">
 
