@@ -66,19 +66,20 @@ Questions Answered :
 _City Filter Applied : Bangalore_
 
 
-<img width="1078" alt="Swiggy City Filtered" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/2b787465-ce47-44c4-bb86-a363969b66ac">
+<img width="1082" alt="Bangalore" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/6f50884b-cc6d-4f01-b4d2-cda5791efe9d">
 
 
 _City Filter Applied : Delhi_
 
 
-<img width="1078" alt="Swiggy City Filtered Delhi" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/80a7c30f-326a-45e7-aaa8-89b192ff7511">
+<img width="1079" alt="Delhi" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/fc58e0f5-58b4-4e54-9f1c-0e42258529cf">
+
 
 
 _City Filter Applied : Mussoorie_
 
 
-<img width="1078" alt="Swiggy City Filtered Mussoorie" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/8b44e075-9d26-4418-bdb8-3e274c9106d6">
+<img width="1074" alt="Mussoorie" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/d796be60-986e-4c92-b991-361aabd5c08b">
 
 
 
@@ -87,6 +88,6 @@ _City Filter Applied : Mussoorie_
   Rating Filter Applied : 4.5 - 5_
 
 
+<img width="1074" alt="Ggn" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/d8eb2d6e-497e-46bb-8e04-3bd87c99fe32">
 
-<img width="1078" alt="new" src="https://github.com/vidushi-25/Swiggy-Dashboard/assets/154007399/96566ecd-8eb8-4ef6-beae-d3b0736027a4">
 
